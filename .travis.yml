@@ -3,5 +3,7 @@ go: "1.10"
 
 go_import_path: go.arkanosis.net/gogogo
 
+install: go get -t -v ./...
+
 notifications:
   email: jroquet@arkanosis.net
