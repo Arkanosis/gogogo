@@ -11,7 +11,7 @@ all: $(TARGET)
 
 $(TARGET): $(SRC)
 	mkdir -p "$(dir $@)"
-	go build -o $@ -ldflags="-X main.version=$(VERSION)" $(URI)
+	go build -o $@ -ldflags="-X main.VERSION=$(VERSION)" $(URI)
 
 clean:
 	rm -rf target
