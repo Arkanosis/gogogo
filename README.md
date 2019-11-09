@@ -15,12 +15,12 @@ However, it aims at doing the following:
  
 Additionaly, for:
  - golang projects:
-  - link to the project directory from `$GOPATH/src/$PROJECT_URI`;
-  - create a `go-import` redirect from `$PROJECT_URI` to the GitHub, GitLab… repository;
+   - link to the project directory from `$GOPATH/src/$PROJECT_URI`;
+   - create a `go-import` redirect from `$PROJECT_URI` to the GitHub, GitLab… repository;
  - rust projects:
-  - publish a boostrap release on crates.io;
+   - publish a boostrap release on crates.io;
  - python projects:
-  - publish a boostrap release on pypi.org.
+   - publish a boostrap release on pypi.org.
 
 ## Installation
 
