@@ -1,3 +1,6 @@
+> **Warning**
+> I do not plan to work on this project anymore; I suggest using [Cookiecutter](https://pypi.org/project/cookiecutter/) instead: it does more than gogogo was ever intended to do and is actively supported by a healthy community of contributors.
+
 # gogogo [![](https://img.shields.io/badge/go-v0.0.1-green.svg)](https://go.arkanosis.net/gogogo) [![License](https://img.shields.io/badge/license-ISC-blue.svg)](/LICENSE) [![Build status](https://travis-ci.org/Arkanosis/gogogo.svg?branch=master)](https://travis-ci.org/Arkanosis/gogogo)
 
 **gogogo** is a command line utility to boostrap a project.
